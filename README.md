@@ -2,9 +2,9 @@
 
 📌 Project Overview
 This project was conducted on a Windows 11 system to improve its security posture through the implementation of practical security controls based upon the CIA Triad principles:  
-   **Confidentiality** - this is to protect sensitive information from unauthorized access.  
+   **Confidentiality** - This is to protect sensitive information from unauthorized access.  
    **Integrity** - this is to stop unauthorized change to data and/or systems. 
-   **Availability** - this is to ensure that systems and data are available to an Organisation when they are required.
+   **Availability** - This is to ensure that systems and data are available to an Organisation when they are required.
 
 **Objectives**
 - Implement real-world system hardening techniques  
@@ -54,5 +54,6 @@ Windows-Security-Hardening/
 - Understanding of CIA Triad  
 
 **Author**
+
 Muhammad Afaq Abbas  
 Cybersecurity Student
