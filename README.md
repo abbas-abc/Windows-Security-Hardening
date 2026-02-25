@@ -44,7 +44,7 @@ Windows-Security-Hardening/
 
 │
 
-├── Screenshots/
+├── Screenshots
 
 ├── report
 
