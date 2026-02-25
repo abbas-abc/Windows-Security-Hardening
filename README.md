@@ -46,7 +46,7 @@ Windows-Security-Hardening/
 
 ├── Screenshots/
 
-├── Documentation.pdf
+├── reports
 
 └── README.md
 
