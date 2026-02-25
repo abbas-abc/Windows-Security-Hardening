@@ -41,6 +41,7 @@ This project was conducted on a Windows 11 system to improve its security postur
 
 **Project Structure**
 Windows-Security-Hardening/
+
 │
 
 ├── Screenshots/
