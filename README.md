@@ -71,10 +71,19 @@ Cybersecurity Student
 ![Password Policy](Screenshots/password-policy.png)
 
 ### 🔥 Firewall Rule (Port 23 Blocked)
-![Firewall Rule](Screenshots/firewall-port23-block.png)
+![Firewall Rule](Screenshots/firewall-port23.png)
 
-### 💾 Backup Configuration
-![Backup](Screenshots/backup.png)
+### 🛡 Virus & Threat Protection
+![Virus & Threat Protection](Screenshots/virus-&-threat-protection.png)
+
+### 🛠 System Protection / Restore Point
+![System Protection](Screenshots/system-protection.png)
+
+### 🔄 Windows Update
+![System Update](Screenshots/system-update.png)
+
+### 💾 File History Backup
+![File History](Screenshots/file-history.png)
 
 ### 🔐 BitLocker Enabled
 ![BitLocker](Screenshots/bitlocker.png)
