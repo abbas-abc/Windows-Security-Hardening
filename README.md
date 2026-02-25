@@ -61,3 +61,6 @@ Windows-Security-Hardening/
 
 Muhammad Afaq Abbas  
 Cybersecurity Student
+
+## 📄 Project Documentation
+[Download full project report](report/Windows-Security-Hardening-Report.pdf)
