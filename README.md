@@ -64,3 +64,17 @@ Cybersecurity Student
 
 ## 📄 Project Documentation
 [Download full project report](report/Windows-Security-Hardening-Report.pdf)
+
+## 📸 Screenshots
+
+### 🔒 Password Policy
+![Password Policy](Screenshots/password-policy.png)
+
+### 🔥 Firewall Rule (Port 23 Blocked)
+![Firewall Rule](Screenshots/firewall-port23-block.png)
+
+### 💾 Backup Configuration
+![Backup](Screenshots/backup.png)
+
+### 🔐 BitLocker Enabled
+![BitLocker](Screenshots/bitlocker.png)
