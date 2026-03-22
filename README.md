@@ -1,6 +1,6 @@
 # 🔐 Windows Security Hardening – CIA Triad Implementation
 
-## 📌 Project Overview
+## Project Overview
 This project was conducted on a Windows 11 system to improve its security 
 posture through practical security controls based on the CIA Triad principles.
 
@@ -12,25 +12,25 @@ posture through practical security controls based on the CIA Triad principles.
 
 ---
 
-## 🛡️ Security Controls Implemented
+## Security Controls Implemented
 
-### 🔒 Confidentiality
+### Confidentiality
 - Enabled BitLocker Drive Encryption  
 - Configured Strong Password Policy (12 chars, complexity enabled)
 
-### 🛡️ Integrity
+### Integrity
 - Configured Windows Defender Firewall (blocked Port 23 / Telnet)  
 - Enabled Windows Defender (Real-time, Cloud, Tamper Protection)  
 - Applied latest Windows Updates
 
-### ⚡ Availability
+### Availability
 - Disabled unnecessary services (Remote Registry)  
 - Enabled File History Backup  
 - Created System Restore Point
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Windows 11  
 - Windows Defender & Firewall  
 - Local Security Policy (secpol.msc)  
@@ -38,7 +38,7 @@ posture through practical security controls based on the CIA Triad principles.
 
 ---
 
-## 📈 Skills Gained
+## Skills Gained
 - System Hardening & Risk Mitigation  
 - Security Configuration  
 - Defensive Security  
@@ -46,8 +46,8 @@ posture through practical security controls based on the CIA Triad principles.
 
 ---
 
-## 📄 Report
-Full report with before/after screenshots available: [View Report]([link-here](https://drive.google.com/file/d/1dy7etHVMTpIlQOhp2S5qI9q19iRnCuaj/view?usp=sharing))
+## Report
+Full report with before/after screenshots available: [View Report]([https://drive.google.com/file/d/1dy7etHVMTpIlQOhp2S5qI9q19iRnCuaj/view?usp=sharing])
 
 ---
 
