@@ -47,7 +47,7 @@ posture through practical security controls based on the CIA Triad principles.
 ---
 
 ## Report
-Full report with before/after screenshots available: [View Report]([https://drive.google.com/file/d/1dy7etHVMTpIlQOhp2S5qI9q19iRnCuaj/view?usp=sharing])
+Full report with before/after screenshots available: [View Report](https://drive.google.com/file/d/1dy7etHVMTpIlQOhp2S5qI9q19iRnCuaj/view?usp=sharing)
 
 ---
 
